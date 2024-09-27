@@ -27,7 +27,16 @@ TheTools Assignment
 ### Count of Full name Job Classification and Gender
 ### Average of Age by Job Classification 
 
-
+# Option 1
 ![img1](https://github.com/user-attachments/assets/836ca882-e2fb-48a9-a98b-65e719a618bf)
+
+
+
+# Option 2
+
+
+
+![image1](https://github.com/user-attachments/assets/9530215a-07d7-4306-8ba7-ed43e5e81f33)
+
 
 # Thank You.!!
